@@ -1,5 +1,7 @@
 ## Welcome to the Universal Scalable Firmware project.
 
+![alt text](https://github.com/UniversalScalableFirmware/.github/blob/main/profile/usf.png)
+
 
 🙋‍♀️ Next Gen firmware architecture to simplify and scale firmware development from edge to cloud.
 
