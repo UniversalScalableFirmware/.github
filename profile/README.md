@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to the Universal Scalable Firmware project.
+## Welcome to the Universal Scalable Firmware project.
 
 
 🙋‍♀️ Next Gen firmware architecture to simplify and scale firmware development from edge to cloud.
