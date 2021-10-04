@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there 👋 Welcome to the Universal Scalable Firmware project.
+
+
+🙋‍♀️ Next Gen firmware architecture to simplify and scale firmware development from edge to cloud.
+
+* Reduce firmware development complexity
+* Scale development across CPU and XPUs
+* Support industry bootloaders and OS payloads across market segments
+* Improve firmware quality & security
+* Accelerate innovation & time to value
+
+👩‍💻 The interface specification is at https://universalscalablefirmware.github.io/documentation/
+
 
 <!--
 
