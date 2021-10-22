@@ -11,7 +11,10 @@
 * Improve firmware quality & security
 * Accelerate innovation & time to value
 
-👩‍💻 The interface specification is at https://universalscalablefirmware.github.io/documentation/
+An **overview** of Universal Scalable Firmware project can be read here https://github.com/UniversalScalableFirmware/Introduction/blob/main/USF_Overview.pdf
+
+
+The **specification** is at https://universalscalablefirmware.github.io/documentation/
 
 
 <!--
